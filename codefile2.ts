@@ -1,20 +1,29 @@
 export function Function6()
 {
-    return "Function6 from codefile2.ts";
+    let message = "Function6 from codefile2.ts";
+    return message;
 }
 export function Function7()
 {
-    return "Function7 from codefile2.ts";
+   let message = "Function7 from codefile2.ts";
+    return message;
+}
 }
 export function Function8()
 {
-    return "Function8 from codefile2.ts";
+    let message = "Function8 from codefile2.ts";
+    return message;
+}
 }
 export function Function9()
 {
-    return "Function9 from codefile2.ts";
+    let message = "Function9 from codefile2.ts";
+    return message;
+}
 }
 export function Function10()
 {
-    return "Function10 from codefile2.ts";
+    let message = "Function10 from codefile2.ts";
+    return message;
+}
 }
